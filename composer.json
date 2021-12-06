@@ -2,6 +2,8 @@
   "require": {
     "php": ">=5.4",
     "johnpbloch/wordpress": "4.2"
+    "johnpbloch/wordpress-core-installer": "^2.0",
+    "johnpbloch/wordpress-core": "^5.5"
   },
   "extra": {
     "wordpress-install-dir": "public"
